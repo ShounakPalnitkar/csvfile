@@ -1,0 +1,41 @@
+question_template,template_type
+Does the organization implement {control} {scope}?,CONTROLS
+Are personnel following procedures for {control} {scope}?,CONTROLS
+Can the organization demonstrate effective use of {control} {scope}?,CONTROLS
+When was {control} last reviewed or updated {scope}?,CONTROLS
+Should additional resources be allocated to {control} {scope}?,CONTROLS
+Would independent verification confirm proper {control} implementation {scope}?,CONTROLS
+Might there be gaps in applying {control} consistently {scope}?,CONTROLS
+Does leadership regularly review metrics for {control} {scope}?,CONTROLS
+Are exceptions to {control} properly documented and approved {scope}?,CONTROLS
+Will current {control} implementations withstand emerging threats {scope}?,CONTROLS
+Have all relevant personnel received training on {control} {scope}?,CONTROLS
+Is documentation for {control} processes complete and current {scope}?,CONTROLS
+Could automation improve the effectiveness of {control} {scope}?,CONTROLS
+Do monitoring systems provide adequate visibility into {control} {scope}?,CONTROLS
+Are there measurable outcomes demonstrating {control} effectiveness {scope}?,CONTROLS
+Was {control} considered during the last risk assessment {scope}?,CONTROLS
+Must any components of {control} be strengthened {scope}?,CONTROLS
+Did recent audits identify weaknesses in {control} implementation {scope}?,CONTROLS
+Are stakeholders aware of their responsibilities regarding {control} {scope}?,CONTROLS
+Does the organization benchmark {control} against industry standards {scope}?,CONTROLS
+Are {control} configurations aligned with industry standards {scope}?,BENCHMARKS
+Does evidence confirm compliance with {control} requirements {scope}?,BENCHMARKS
+Were {control} settings validated against benchmarks recently {scope}?,BENCHMARKS
+Must any {control} configurations be corrected {scope}?,BENCHMARKS
+Can the organization demonstrate adherence to {control} baselines {scope}?,BENCHMARKS
+Is documentation available for all {control} configuration standards {scope}?,BENCHMARKS
+Are deviations from {control} benchmarks properly authorized {scope}?,BENCHMARKS
+Do tools automatically enforce {control} configuration standards {scope}?,BENCHMARKS
+Were {control} settings reviewed during the last change cycle {scope}?,BENCHMARKS
+Should {control} configurations be updated to address new threats {scope}?,BENCHMARKS
+Have all systems been assessed for {control} compliance {scope}?,BENCHMARKS
+Does the organization maintain hardening guides for {control} {scope}?,BENCHMARKS
+Are {control} configuration standards included in onboarding {scope}?,BENCHMARKS
+Would penetration testing reveal weaknesses in {control} settings {scope}?,BENCHMARKS
+Must any exceptions to {control} benchmarks be documented {scope}?,BENCHMARKS
+Did recent incidents reveal gaps in {control} configurations {scope}?,BENCHMARKS
+Are {control} standards consistently applied across environments {scope}?,BENCHMARKS
+Do metrics show improvement in {control} configuration compliance {scope}?,BENCHMARKS
+Was {control} compliance verified before production deployment {scope}?,BENCHMARKS
+Are {control} configuration standards reviewed annually {scope}?,BENCHMARKS
