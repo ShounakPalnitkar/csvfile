@@ -1,41 +1,80 @@
-question_template,template_type
-Does the organization implement {control} {scope}?,CONTROLS
-Are personnel following procedures for {control} {scope}?,CONTROLS
-Can the organization demonstrate effective use of {control} {scope}?,CONTROLS
-When was {control} last reviewed or updated {scope}?,CONTROLS
-Should additional resources be allocated to {control} {scope}?,CONTROLS
-Would independent verification confirm proper {control} implementation {scope}?,CONTROLS
-Might there be gaps in applying {control} consistently {scope}?,CONTROLS
-Does leadership regularly review metrics for {control} {scope}?,CONTROLS
-Are exceptions to {control} properly documented and approved {scope}?,CONTROLS
-Will current {control} implementations withstand emerging threats {scope}?,CONTROLS
-Have all relevant personnel received training on {control} {scope}?,CONTROLS
-Is documentation for {control} processes complete and current {scope}?,CONTROLS
-Could automation improve the effectiveness of {control} {scope}?,CONTROLS
-Do monitoring systems provide adequate visibility into {control} {scope}?,CONTROLS
-Are there measurable outcomes demonstrating {control} effectiveness {scope}?,CONTROLS
-Was {control} considered during the last risk assessment {scope}?,CONTROLS
-Must any components of {control} be strengthened {scope}?,CONTROLS
-Did recent audits identify weaknesses in {control} implementation {scope}?,CONTROLS
-Are stakeholders aware of their responsibilities regarding {control} {scope}?,CONTROLS
-Does the organization benchmark {control} against industry standards {scope}?,CONTROLS
-Are {control} configurations aligned with industry standards {scope}?,BENCHMARKS
-Does evidence confirm compliance with {control} requirements {scope}?,BENCHMARKS
-Were {control} settings validated against benchmarks recently {scope}?,BENCHMARKS
-Must any {control} configurations be corrected {scope}?,BENCHMARKS
-Can the organization demonstrate adherence to {control} baselines {scope}?,BENCHMARKS
-Is documentation available for all {control} configuration standards {scope}?,BENCHMARKS
-Are deviations from {control} benchmarks properly authorized {scope}?,BENCHMARKS
-Do tools automatically enforce {control} configuration standards {scope}?,BENCHMARKS
-Were {control} settings reviewed during the last change cycle {scope}?,BENCHMARKS
-Should {control} configurations be updated to address new threats {scope}?,BENCHMARKS
-Have all systems been assessed for {control} compliance {scope}?,BENCHMARKS
-Does the organization maintain hardening guides for {control} {scope}?,BENCHMARKS
-Are {control} configuration standards included in onboarding {scope}?,BENCHMARKS
-Would penetration testing reveal weaknesses in {control} settings {scope}?,BENCHMARKS
-Must any exceptions to {control} benchmarks be documented {scope}?,BENCHMARKS
-Did recent incidents reveal gaps in {control} configurations {scope}?,BENCHMARKS
-Are {control} standards consistently applied across environments {scope}?,BENCHMARKS
-Do metrics show improvement in {control} configuration compliance {scope}?,BENCHMARKS
-Was {control} compliance verified before production deployment {scope}?,BENCHMARKS
-Are {control} configuration standards reviewed annually {scope}?,BENCHMARKS
+How does your organization implement {control}, and how is the effectiveness of {control} regularly evaluated?
+
+Can you explain the policies governing {control} and how {control} compliance is ensured across all systems?
+
+What procedures are in place to manage {control}, and how are changes to {control} documented and approved?
+
+Is {control} consistently applied throughout the organization, and which teams are accountable for {control} management?
+
+How does your company monitor {control} performance, and what metrics are used to assess {control} success?
+
+Which tools and technologies are used to enforce {control}, and how is the ongoing compliance of {control} tracked?
+
+Does your organization have formal training programs related to {control}, and how are personnel educated about {control} responsibilities?
+
+What challenges has your organization faced regarding {control}, and how have you addressed gaps in {control} implementation?
+
+How are exceptions to {control} handled, and what controls are in place to mitigate risks when {control} cannot be fully applied?
+
+Can you describe the audit processes that verify adherence to {control} and how {control} findings are remediated?
+
+How does leadership review reports on {control}, and how frequently are updates on {control} communicated to stakeholders?
+
+What evidence is maintained to demonstrate compliance with {control}, and how accessible is documentation related to {control}?
+
+How is {control} integrated into incident response planning, and how does {control} influence your security posture during incidents?
+
+How frequently is {control} reviewed for relevance and effectiveness, and what processes govern the updating of {control}?
+
+Does your organization benchmark {control} against industry standards, and how do you incorporate these benchmarks into {control} practices?
+
+How is the risk associated with {control} assessed, and what mitigation strategies are implemented to address those risks?
+
+What automation or orchestration tools support the enforcement of {control}, and how do they improve the consistency of {control}?
+
+How are monitoring and logging solutions configured to detect deviations in {control}, and how is this data utilized?
+
+Can you describe how {control} aligns with your overall cybersecurity framework, and what role {control} plays in risk management?
+
+How does the organization ensure that {control} remains compliant with applicable laws, regulations, and standards?
+
+What processes ensure that {control} is incorporated into system development lifecycles, and how is {control} verified before deployment?
+
+How are updates to {control} communicated across the organization, and what mechanisms ensure that {control} remains current?
+
+How do you validate that {control} configurations are correctly implemented on all relevant systems, and what tools are used?
+
+What controls exist to ensure that {control} settings are not altered without proper authorization, and how are such changes tracked?
+
+How does your organization document and retain evidence of {control} implementation, and how is this evidence audited?
+
+How is continuous improvement of {control} facilitated, and what feedback mechanisms are used to enhance {control} over time?
+
+Which key performance indicators (KPIs) or metrics are tracked to evaluate the ongoing success of {control}?
+
+How are third-party vendors and partners required to comply with {control}, and what oversight is applied to ensure their compliance?
+
+How does your organization test {control} effectiveness through exercises such as penetration testing or security assessments?
+
+How are findings related to {control} from audits or assessments prioritized and remediated?
+
+Can you describe how {control} interfaces with other security controls, and how these relationships affect your security posture?
+
+What documentation and training materials are available to ensure personnel understand the requirements and execution of {control}?
+
+How is {control} aligned with business objectives, and how does {control} support the organization’s risk appetite and tolerance?
+
+How does the organization handle outdated or deprecated {control} elements, and what is the process for retiring obsolete controls?
+
+What governance structure oversees the implementation and maintenance of {control}, and how are responsibilities assigned?
+
+How does your organization respond to emerging threats that may impact the effectiveness of {control}?
+
+What role does {control} play in compliance reporting, and how is compliance with {control} demonstrated to regulators or auditors?
+
+How is technology lifecycle management integrated with {control}, including deployment, patching, and decommissioning?
+
+Can you provide examples of how {control} has directly mitigated risks or prevented incidents within your environment?
+
+How does your organization ensure that all relevant stakeholders remain informed about changes and updates to {control} policies and procedures?
+
